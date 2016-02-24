@@ -1,5 +1,5 @@
-# matrix-baisc
-矩阵的逆
+# matrix-delta
+矩阵行列式
 
 本工具使用numpy.matrix实现
 
